@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/cockpit.ogg-4e63efc5e779c95c95f1303a856142cb.oggstr"
+
+[deps]
+
+source_file="res://cockpit.ogg"
+dest_files=[ "res://.import/cockpit.ogg-4e63efc5e779c95c95f1303a856142cb.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
